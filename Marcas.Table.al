@@ -31,7 +31,7 @@ table 59436 Marcas
 
     trigger OnInsert()
     begin
-        //  Message('Insertado de manera correcta');
+        //  Message('Insertado de manera correcta'); fsafsafafsafasf
     end;
 
     trigger OnModify()
